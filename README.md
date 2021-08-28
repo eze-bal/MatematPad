@@ -1,4 +1,4 @@
-# MateMatpad
+# MatematPad
 Very basic Virtual Keyboard with mathematic characters. Just that.
 
 ![matematpad1](https://user-images.githubusercontent.com/89707294/131230127-e8d4f230-ed82-47a3-b7a3-b40b580c7330.jpg)

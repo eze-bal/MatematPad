@@ -6,7 +6,7 @@ Very basic Virtual Keyboard with mathematic characters. Just that.
 ### Why?
 It's a very simple and rough proyect that i made on my free time, tired of do a lot of steps to put symbols like α,δ or Δ when doing university homework. It keeps itself on top of sreen at every moment, saving you for lots of copy-paste or digging into windows OSK.
 
-Mostly composed of a Tkinter GUI with some phython plugins.
+Mostly composed of a Tkinter GUI with some Python plugins.
 
 Currently only works in Windows because it relies on PyGetWindow to trick Windows keyboard focus behaviour.
 However i plan to make it work in Linux (which should be simpler) in the future.

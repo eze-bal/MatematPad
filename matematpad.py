@@ -3,8 +3,6 @@ import tkinter as tk
 from tkinter import messagebox
 import tkinter.ttk as ttk
 from ttkthemes import themed_tk as tkkk
-#import pyperclip
-#import pyautogui
 import keyboard
 import pygetwindow as win
 

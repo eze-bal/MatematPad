@@ -17,7 +17,7 @@ However i plan to make it work in Linux (which should be simpler) in the future.
 - Always on top
 - Option to hide window decoration
 
-### Upcoming features
+### To do
 - Linux support
 - Switch between different modes (keyboard, copy to clipboard, keyboard+copy to clipboard)
 - Option to hide menu bar

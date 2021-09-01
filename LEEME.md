@@ -1,4 +1,4 @@
-[Read in English](https://github.com/EzequielBallester/MatematPad/blob/main/README.md) / [Leer en español](https://github.com/EzequielBallester/MatematPad/blob/main/LEEME.md)
+[Read in English](https://github.com/EzequielBallester/MatematPad) / [Leer en español](https://github.com/EzequielBallester/MatematPad/blob/main/LEEME.md)
 
 # ![icon2o](https://user-images.githubusercontent.com/89707294/131595376-b9e5b826-4f09-4b92-bb7c-d4ce5003b402.png) MatematPad 
 

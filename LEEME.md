@@ -1,9 +1,11 @@
 [Read in English](https://github.com/EzequielBallester/MatematPad/blob/main/README.md) / [Leer en español](https://github.com/EzequielBallester/MatematPad/blob/main/LEEME.md)
 
-# MatematPad
+# ![icon2o](https://user-images.githubusercontent.com/89707294/131595376-b9e5b826-4f09-4b92-bb7c-d4ce5003b402.png) MatematPad 
+
+
 Teclado virtual muy simple con carácteres matemáticos. Nada más.
 
-![matematpad1](https://user-images.githubusercontent.com/89707294/131230127-e8d4f230-ed82-47a3-b7a3-b40b580c7330.jpg)
+![matematpad1](https://user-images.githubusercontent.com/89707294/131230127-e8d4f230-ed82-47a3-b7a3-b40b580c7330.jpg) 
 
 ### Detalles
 Se trata de un proyecto simple y algo tosco que hice en mi tiempo libre, para escribir rápidamente simbolos como α,δ o Δ a la hora de redactar textos para la universidad. Se mantiene en frente de las demás ventanas en todo momento, lo que permite ahorrar el tiempo que normalmente se tarda en navegar entre las opciones del editor de texto, hacer copy-paste o buscar el símbolo adecuado en el teclado en pantalla de Windows.

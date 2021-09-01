@@ -1,26 +1,25 @@
 [Read in English](https://github.com/EzequielBallester/MatematPad/blob/main/README.md) / [Leer en español](https://github.com/EzequielBallester/MatematPad/blob/main/LEEME.md)
 
 # MatematPad
-Very basic Virtual Keyboard with mathematic characters. Just that.
+Teclado virtual muy simple con carácteres matemáticos. Nada más.
 
 ![matematpad1](https://user-images.githubusercontent.com/89707294/131230127-e8d4f230-ed82-47a3-b7a3-b40b580c7330.jpg)
 
-### Why?
-It's a very simple and rough project that i made on my free time, tired of do a lot of steps to put symbols like α,δ or Δ when doing university homework. It keeps itself on top of sreen at every moment, saving you for lots of copy-paste or digging into windows OSK.
+### Detalles
+Se trata de un proyecto simple y algo tosco que hice en mi tiempo libre, para escribir rápidamente simbolos como α,δ o Δ a la hora de redactar textos para la universidad. Se mantiene en frente de las demás ventanas en todo momento, lo que permite ahorrar tiempo que se tarda en navegar entre las opciones del editor de texto, hacer copy-paste o buscar el símbolo adecuado en el teclado en pantalla de Windows.
 
-Mostly composed of a Tkinter GUI with some Python plugins.
+Compuesto principalmente de una GUI en Tkinter y algunos plugins de Python.
 
-Currently only works in Windows because it relies on PyGetWindow to trick Windows keyboard focus behaviour.
-However i plan to make it work in Linux (which should be simpler) in the future.
+Funciona solo en Windows de momento ya que depende de PyGetWindow para burlar el comportamiento del enfoque de teclado en Windows. Sin embargo, planeo hacerlo compatible con Linux en el futuro.
 
-### Current features
-- Write scientific characters in the current selected textbox by pressing the button (Just like any other keyboard, duh)
-- Four themes available (Breeze, Equilux, Arc , WinUI)
-- Always on top
-- Option to hide window decoration
+### Características actuales
+- Escribir símbolos científicos en el cuadro de texto seleccionado (Como cualquier teclado)
+- Cuatro temas disponibles (Breeze, Equilux, Arc , WinUI)
+- Siempre en frente
+- Opción para ocultar la decoración de la ventana
 
-### To do
-- Linux support
-- Switch between different modes (keyboard, copy to clipboard, keyboard+copy to clipboard)
-- Option to hide menu bar
-- Multiple language support (Currently Spanish only)
+### Características futuras
+- Soporte para Linux
+- Distintos modos de funcionamiento (teclado, copiar al portapapeles, teclado + copiar al portapapeles)
+- Opción para ocultar la barra de menú
+- Multiples idiomas (Solo español actualmente)

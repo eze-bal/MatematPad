@@ -1,3 +1,5 @@
+[Read in English](https://github.com/EzequielBallester/MatematPad/edit/main/README.md) / [Leer en español](https://github.com/EzequielBallester/MatematPad/edit/main/LEEME.md)
+
 # MatematPad
 Very basic Virtual Keyboard with mathematic characters. Just that.
 

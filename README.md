@@ -6,7 +6,7 @@ Very basic Virtual Keyboard with mathematic characters. Just that.
 ![matematpad1](https://user-images.githubusercontent.com/89707294/131230127-e8d4f230-ed82-47a3-b7a3-b40b580c7330.jpg)
 
 ### Why?
-It's a very simple and rough project that I made on my free time, tired of do a lot of steps to put symbols like α,δ or Δ when doing university homework. It keeps itself on top of sreen at every moment, saving you for lots of copy-paste or digging into windows OSK.
+It's a very simple and rough project that I made on my free time, tired of do a lot of steps to put symbols like α,δ or Δ when doing university homework. It keeps itself on top of screen at every moment, saving you for lots of copy-paste or digging into windows OSK.
 
 Mostly composed of a Tkinter GUI with some Python plugins.
 
